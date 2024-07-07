@@ -15,7 +15,7 @@ Note: If you are using PostgreSQL then restore the <a href="https://github.com/s
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/shabarish009/Music-Store-Analysis/blob/bb9eafe2e8641b3a3eb22109de762111086f2649/MusicDatabaseSchema.png)
+![Schema Diagram](https://github.com/shabarish009/Music-Store-Analysis/blob/76aed2304e48dbc32c5531c24d5f7f258d6e6c62/MusicDatabaseSchema.png)
 
 <!-- ## Usage
 
