@@ -34,7 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project (check out <a href="https://github.com/shabarish009/Music-Store-Analysis/blob/e9e23b4ede2562862f9411f6a853b3d05a13d273/analysis.sql">analysis.sql</a> file for the rest):
 
 * What are the most popular genres of music?
 * What are the most popular artists?
